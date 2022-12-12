@@ -1,0 +1,17 @@
+dataset,train/test_type,10,20
+normal_d=1764,Holdout: 70/30,0.5,0.5066666666666667
+normal_d=1764,Holdout: 80/20,0.525,0.53
+normal_d=1764,Holdout: 90/10,0.48,0.54
+normal_d=1764,10-fold,0.585,0.576
+normal_d=900,Holdout: 70/30,0.6166666666666667,0.6
+normal_d=900,Holdout: 80/20,0.625,0.64
+normal_d=900,Holdout: 90/10,0.62,0.64
+normal_d=900,10-fold,0.575,0.589
+normal_d=459,Holdout: 70/30,0.4766666666666667,0.46
+normal_d=459,Holdout: 80/20,0.515,0.505
+normal_d=459,Holdout: 90/10,0.5,0.45
+normal_d=459,10-fold,0.545,0.553
+normal_d=540,Holdout: 70/30,0.4866666666666667,0.49666666666666665
+normal_d=540,Holdout: 80/20,0.55,0.55
+normal_d=540,Holdout: 90/10,0.52,0.5
+normal_d=540,10-fold,0.5399999999999999,0.5509999999999999
